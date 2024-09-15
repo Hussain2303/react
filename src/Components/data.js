@@ -1,0 +1,53 @@
+  const data=[
+    {
+        id: 1,
+        name: 'Thunder Earbuds',
+        price: 3999,
+        description: 'Aerofit Design | Quad Mic & ENC',
+        image: 'https://zerolifestyle.co/cdn/shop/files/Rover-1st.webp?v=1722939355',
+        originalPrice: 99.99,
+        discount: 70,
+        color: 'pink',
+      },
+      {
+        id: 2,
+        name: 'Astro Earbuds',
+        price: 3999,
+        description: 'SANC & ENC Quad Mic | Low Stock',
+        image: 'https://zerolifestyle.co/cdn/shop/files/Zero_Quantum_White_01.png?v=1709926537',
+        originalPrice: 99.99,
+        discount: 70,
+        color: 'red',
+      },
+      {
+        id: 3,
+        name: 'Quantum Earbuds',
+        price: 3999,
+        description: 'ENC & Quad Mic | Gaming Mode',
+        image: 'https://zerolifestyle.co/cdn/shop/files/black1_0db5a5ba-3c24-4913-92e4-6a03b88e98c3.png?v=1723319642',
+        originalPrice: 99.99,
+        discount: 70,
+        color: 'Aqua Green',
+      },
+      {
+        id: 4,
+        name: 'Flash Earbuds',
+        price: 3999,
+        description: 'Quad Mic ENC | IPX 5 Waterproof',
+        image: 'https://zerolifestyle.co/cdn/shop/files/WhatsAppImage2024-03-23at5.58.25PM.jpg?v=1711356614',
+        originalPrice: 99.99,
+        discount: 70,
+        color: 'Gray',
+      },
+      {
+        id: 5,
+        name: 'Wave Earbuds',
+        price: 3999,
+        description: 'Low Latency Gaming Mode',
+        image: 'https://zerolifestyle.co/cdn/shop/files/Zero_Astro_Realistic_3.jpg?v=1714420426',
+        originalPrice: 99.99,
+        discount: 70,
+        color: 'Blue',
+      }
+]
+export default data;
